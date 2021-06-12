@@ -1,0 +1,7 @@
+13:45:47.474 [TestNG-tests-2] INFO  resources.base - Restrictive user
+13:47:26.245 [TestNG-tests-3] INFO  resources.base - Driver is closed successfully
+13:51:21.933 [TestNG-tests-3] INFO  resources.base - Driver is initialized
+13:51:24.627 [TestNG-tests-3] INFO  resources.base - Navigate to HomePage
+13:51:25.336 [TestNG-tests-1] INFO  resources.base - Navigation Bar is displayed
+13:51:26.282 [TestNG-tests-2] INFO  resources.base - Non-restrictive user
+13:51:28.331 [TestNG-tests-2] INFO  resources.base - Restrictive user
